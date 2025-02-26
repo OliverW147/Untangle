@@ -63,10 +63,5 @@ Ensure you have **Python 3** installed. Then install the required packages:
 ## 📜 License  
 This project is licensed under the **MIT License**.
 
-## 🙌 Acknowledgements  
-
 ### 👏 **Simon Tatham**  
 The original creator of Untangle, whose inventive puzzle design continues to inspire game developers.  
-
-### 🛠 **Pygame & Cryptography Libraries**  
-Thanks to the developers behind these libraries for making it easier to build engaging and secure games.
