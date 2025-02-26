@@ -1,3 +1,6 @@
+!(https://github.com/OliverW147/Untangle/blob/main/image2.png?raw=true)
+!(https://github.com/OliverW147/Untangle/blob/main/image.png?raw=true)
+
 Untangle Remake
 A Python-based remake of the classic puzzle game Untangle originally created by Simon Tatham.
 
